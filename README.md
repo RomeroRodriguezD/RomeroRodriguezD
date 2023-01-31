@@ -13,6 +13,6 @@ I'm David someone who enjoys programming and learning more about it every day. I
 + 💬 Developing Graphic User Interfaces with Tkinter.
 + 💬 Automation of desktop tasks with libraries like Pyautogui or Autohotkey.
 
-Short summary for lazy fellas:
+Short summary:
 
 ![memetoystory](https://user-images.githubusercontent.com/105886661/215554844-bbfbc602-10b1-4260-a2a8-ae8ffb4012dd.jpg)
