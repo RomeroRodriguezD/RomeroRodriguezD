@@ -8,7 +8,3 @@ I'm David someone who enjoys programming and learning more about it every day. I
 + 💬 MySQL, PostgreSQL and SQLite are my main data persistence weapons.
 + 💬 Web scrapping and automation of browser-based tasks with Selenium and BeautifulSoup.
 + 💬 Developing Graphic User Interfaces with Tkinter.
-
-Short summary:
-
-![memetoystory](https://user-images.githubusercontent.com/105886661/215554844-bbfbc602-10b1-4260-a2a8-ae8ffb4012dd.jpg)
