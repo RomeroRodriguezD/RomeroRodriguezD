@@ -8,5 +8,5 @@ I'm David someone who enjoys programming and learning more about it every day. I
 + 💬 Pandas, Numpy and Matplotlib for data manipulation and visualization.
 + 💬 MySQL, PostgreSQL, SQLite, SQLAlchemy engines. 
 + 💬 Web scrapping and automation of browser-based tasks with Selenium and BeautifulSoup.
-+ 💬 Testing engineering through Behave / Gherkin.
++ 💬 Test engineering through Behave / Gherkin.
 + 💬 Developing Graphic User Interfaces with Tkinter / PyQT.
