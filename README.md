@@ -6,6 +6,7 @@ I'm David someone who enjoys programming and learning more about it every day. I
 + 💬 Scikit-Learn for machine learning algorithms.
 + 💬 Flask & Django for web development and small API's.
 + 💬 Pandas, Numpy and Matplotlib for data manipulation and visualization.
++ 💬 Folium for GIS.
 + 💬 MySQL, PostgreSQL, SQLite, SQLAlchemy engines. 
 + 💬 Web scrapping and automation of browser-based tasks with Selenium and BeautifulSoup.
 + 💬 Test engineering through Behave / Gherkin.
